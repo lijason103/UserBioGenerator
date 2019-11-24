@@ -1,3 +1,3 @@
 # UserBioGenerator
 
-A python script that generates random users with name, email, bio and list of random course indexes[within bounds].
+UserBioGenerator is a python script that randomly generates student users with attributes: name, email, biography and course enrollment information.
